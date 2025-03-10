@@ -1,0 +1,14 @@
+C:\Users\tomil\source\repos\ETL\C# Project Assignment\C# Project Assignment\obj\Debug\net8.0\C# Project Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomil\source\repos\ETL\C# Project Assignment\C# Project Assignment\obj\Debug\net8.0\C# Project Assignment.AssemblyInfoInputs.cache
+C:\Users\tomil\source\repos\ETL\C# Project Assignment\C# Project Assignment\obj\Debug\net8.0\C# Project Assignment.AssemblyInfo.cs
+C:\Users\tomil\source\repos\ETL\C# Project Assignment\C# Project Assignment\obj\Debug\net8.0\C# Project Assignment.csproj.CoreCompileInputs.cache
+C:\Users\tomil\source\repos\ETL\C# Project Assignment\C# Project Assignment\bin\Debug\net8.0\C# Project Assignment.exe
+C:\Users\tomil\source\repos\ETL\C# Project Assignment\C# Project Assignment\bin\Debug\net8.0\C# Project Assignment.deps.json
+C:\Users\tomil\source\repos\ETL\C# Project Assignment\C# Project Assignment\bin\Debug\net8.0\C# Project Assignment.runtimeconfig.json
+C:\Users\tomil\source\repos\ETL\C# Project Assignment\C# Project Assignment\bin\Debug\net8.0\C# Project Assignment.dll
+C:\Users\tomil\source\repos\ETL\C# Project Assignment\C# Project Assignment\bin\Debug\net8.0\C# Project Assignment.pdb
+C:\Users\tomil\source\repos\ETL\C# Project Assignment\C# Project Assignment\obj\Debug\net8.0\C# Project Assignment.dll
+C:\Users\tomil\source\repos\ETL\C# Project Assignment\C# Project Assignment\obj\Debug\net8.0\refint\C# Project Assignment.dll
+C:\Users\tomil\source\repos\ETL\C# Project Assignment\C# Project Assignment\obj\Debug\net8.0\C# Project Assignment.pdb
+C:\Users\tomil\source\repos\ETL\C# Project Assignment\C# Project Assignment\obj\Debug\net8.0\C# Project Assignment.genruntimeconfig.cache
+C:\Users\tomil\source\repos\ETL\C# Project Assignment\C# Project Assignment\obj\Debug\net8.0\ref\C# Project Assignment.dll
