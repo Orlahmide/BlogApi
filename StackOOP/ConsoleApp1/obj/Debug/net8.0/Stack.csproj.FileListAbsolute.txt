@@ -1,0 +1,14 @@
+C:\Users\tomil\source\repos\C# Assigment\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Stack.exe
+C:\Users\tomil\source\repos\C# Assigment\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Stack.deps.json
+C:\Users\tomil\source\repos\C# Assigment\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Stack.runtimeconfig.json
+C:\Users\tomil\source\repos\C# Assigment\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Stack.dll
+C:\Users\tomil\source\repos\C# Assigment\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Stack.pdb
+C:\Users\tomil\source\repos\C# Assigment\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomil\source\repos\C# Assigment\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Stack.AssemblyInfoInputs.cache
+C:\Users\tomil\source\repos\C# Assigment\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Stack.AssemblyInfo.cs
+C:\Users\tomil\source\repos\C# Assigment\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Stack.csproj.CoreCompileInputs.cache
+C:\Users\tomil\source\repos\C# Assigment\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Stack.dll
+C:\Users\tomil\source\repos\C# Assigment\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\Stack.dll
+C:\Users\tomil\source\repos\C# Assigment\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Stack.pdb
+C:\Users\tomil\source\repos\C# Assigment\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Stack.genruntimeconfig.cache
+C:\Users\tomil\source\repos\C# Assigment\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\Stack.dll
